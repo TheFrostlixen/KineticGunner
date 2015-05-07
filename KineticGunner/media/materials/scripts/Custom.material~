@@ -1,0 +1,28 @@
+material Examples/Borg
+{
+	technique
+	{
+		pass
+		{
+			texture_unit
+			{
+				texture borg.jpg
+			}
+		}
+	}
+}
+
+material Examples/Crosshair
+{
+	technique
+	{
+		pass
+		{
+
+			texture_unit
+			{
+				texture borg.jpg
+			}
+		}
+	}
+}

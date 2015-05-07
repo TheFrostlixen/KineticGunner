@@ -1,0 +1,13 @@
+material Color_000
+{
+	technique
+	{
+		pass
+		{
+			ambient 0 0 0 1
+			specular 0.33 0.33 0.33 1 25.6
+		}
+
+	}
+
+}
